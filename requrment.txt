@@ -1,0 +1,6 @@
+opencv-python
+numpy 
+pandas 
+keras
+pickle5
+cv2
